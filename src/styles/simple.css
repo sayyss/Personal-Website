@@ -1,0 +1,23 @@
+.HelloParent{
+    padding: 20px;
+    box-shadow: 3px 3px 8px rgb(212, 212, 212);
+}
+.HelloParent h1{
+    font-size: 35px;
+    color: rgb(88, 88, 88);
+    border-radius: 10px;
+}
+.HelloParent p{
+    font-size: 18px;
+    font-weight: lighter;
+}
+.logo{
+    border-radius: 80px;
+    width: 200px;
+    height: 200px;
+}
+
+.ComponentDiv{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
