@@ -1,0 +1,52 @@
+
+.section1{
+    text-align: center;
+    color: white;
+    background-color: rgb(32, 68, 66);
+    height: 100%;
+    padding: 120px;
+
+}
+.section1 h1{
+    font-size: 55px;
+}
+
+
+.section2{
+    text-align: center;
+    color: white;
+    background-color: rgb(32, 68, 66);
+    height: 100%;
+}
+
+.section3{
+    text-align: center;
+    color: white;
+    background-color: rgb(32, 68, 66);
+    height: 100%;
+}
+
+
+.SimpleMain{
+    background-color: rgb(32, 68, 66);
+    margin: 0px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .section1{
+        padding: 10px;
+    }
+    .section1 h1{
+        font-size: 40px;
+    }
+}
+
+
+@media only screen and (max-width: 500px) {
+    .section1{
+        padding: 10px;
+    }
+    .section1 h1{
+        font-size: 30px;
+    }
+}

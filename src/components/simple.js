@@ -6,6 +6,7 @@ import { Row, Col } from 'antd';
 
 export default function Hello() {
     return (
+        <div class="main">
         <div class="HelloParent">
 
             <div class="ComponentDiv">
@@ -55,6 +56,7 @@ export default function Hello() {
 
                 <p>Github Dashboard: </p>
             </div>
+        </div>
         </div>
     )
 }
